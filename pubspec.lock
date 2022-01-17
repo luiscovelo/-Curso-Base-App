@@ -99,9 +99,18 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "v1.0.1"
-      resolved-ref: "35a1a46dd2e659dcc930ff75d76c3d0fddc2896f"
+      ref: "v1.0.3"
+      resolved-ref: b8be65851e22b3840446e4f9a87d4898f2390e7c
       url: "https://github.com/luiscovelo/-Curso-Micro-App-Login.git"
+    source: git
+    version: "1.0.3"
+  micro_commons_design_system:
+    dependency: transitive
+    description:
+      path: "."
+      ref: "v1.0.1"
+      resolved-ref: a1c918cdad9f8adfa44471fdd1d006ec54524c5d
+      url: "https://github.com/luiscovelo/-Curso-Micro-Commons-Design-System.git"
     source: git
     version: "1.0.1"
   micro_core:
