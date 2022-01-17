@@ -31,11 +31,21 @@ dependencies:
     git:
       url: https://github.com/luiscovelo/-Curso-Micro-Core.git
       ref: v1.0.0
+
+  micro_commons_design_system:
+    git:
+      url: https://github.com/luiscovelo/-Curso-Micro-Commons-Design-System.git
+      ref: v1.0.1
   
   micro_app_login:
     git:
       url: https://github.com/luiscovelo/-Curso-Micro-App-Login.git
       ref: v1.0.3
+
+  micro_app_home:
+    git:
+      url: https://github.com/luiscovelo/-Curso-Micro-App-Home.git
+      ref: v1.0.0
 
   flutter:
     sdk: flutter
