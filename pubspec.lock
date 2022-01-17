@@ -98,16 +98,20 @@ packages:
   micro_app_login:
     dependency: "direct main"
     description:
-      path: "../micro_app_login"
-      relative: true
-    source: path
-    version: "0.0.1"
+      path: "."
+      ref: "v1.0.1"
+      resolved-ref: "35a1a46dd2e659dcc930ff75d76c3d0fddc2896f"
+      url: "https://github.com/luiscovelo/-Curso-Micro-App-Login.git"
+    source: git
+    version: "1.0.1"
   micro_core:
     dependency: "direct main"
     description:
-      path: "../micro_core"
-      relative: true
-    source: path
+      path: "."
+      ref: "v1.0.0"
+      resolved-ref: c6c226ec7d97190a63d297e0c1efcc3a8e4ea541
+      url: "https://github.com/luiscovelo/-Curso-Micro-Core.git"
+    source: git
     version: "0.0.1"
   path:
     dependency: transitive
